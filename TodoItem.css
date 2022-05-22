@@ -1,0 +1,29 @@
+.input{
+    width: 25%;
+    height: 55px;
+    padding-left: 25px;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.add{
+    width: 3.5%;
+    height: 54px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.style{
+    border: 1px solid black;
+    width: 30%;
+    margin: 10px auto auto;
+    padding: 8px;
+    display: flex;
+    gap: 225px;
+    padding-left: 20px;
+    border-radius: 20px;
+  }
+  .button{
+    height: 30px;
+    margin: auto;
+    width: 14%;
+    margin-top: 18px;
+  }
